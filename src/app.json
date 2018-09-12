@@ -1,0 +1,38 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/books/main",
+    "pages/me/main",
+    "pages/comments/main",
+    "pages/detail/main",
+    "pages/ibookdetail/main",
+    "pages/reader/main",
+    "pages/catalog/main",
+    "pages/classification/main",
+    "pages/search/main",
+    "pages/bookshelf/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#f270a7",
+    "navigationBarTitleText": "书香小说",
+    "navigationBarTextStyle": "light"
+  },
+  "tabBar": {
+    "list": [
+          {
+            "pagePath": "pages/index/main",
+            "text": "精选",
+            "iconPath": "static/img/book.png",
+            "selectedIconPath" :"static/img/book-active.png"
+            
+          },
+          {
+            "pagePath": "pages/bookshelf/main",
+            "text": "书架",
+            "iconPath": "static/img/todo.png",
+            "selectedIconPath" :"static/img/todo-active.png"
+          } 
+    ]
+  }
+}

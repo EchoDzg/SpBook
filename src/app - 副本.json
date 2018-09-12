@@ -1,0 +1,38 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/books/main",
+    "pages/me/main",
+    "pages/comments/main",
+    "pages/detail/main",
+    "pages/ibookdetail/main",
+    "pages/reader/main"
+  
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#f270a7",
+    "navigationBarTitleText": "小说",
+    "navigationBarTextStyle": "light"
+  },
+  "tabBar": {
+    "list": [
+          {
+            "pagePath": "pages/index/main",
+            "text": "精选",
+            "iconPath": "static/img/book.png",
+            "selectedIconPath" :"static/img/book-active.png"
+            
+          }, 
+          {
+            "pagePath": "pages/books/main",
+            "text": "豆瓣",
+            "iconPath": "static/img/other.png",
+            "selectedIconPath" :"static/img/other-active.png"
+            
+            
+          }
+        
+    ]
+  }
+}
