@@ -43,7 +43,11 @@ $ npm -v
 # 2. 由于众所周知的原因，可以考虑切换源为 taobao 源
 $ npm set registry https://registry.npm.taobao.org/
 
-# 5. 安装依赖，走你，SpBook 是你下载的项目目录
+# 3. 全局安装 vue-cli
+# 一般是要 sudo 权限的
+$ npm install --global vue-cli@2.9
+
+# 4. 安装依赖，走你，SpBook 是你下载的项目目录
 $ cd SpBook
 $ npm install
 $ npm run dev
