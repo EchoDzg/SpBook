@@ -4,7 +4,7 @@
 
 个人项目----在线 小程序 书城
 
-手机端访问地址：http://book.hzphper.com/(个人低配置服务器演示域名，部分地区可能会加载延迟)
+手机端访问地址：http://119.23.172.58:3002/(个人低配置服务器演示域名，部分地区可能会加载延迟)
 
 > * 支持加入书架，移除书架
 > * 在线阅读，小说详情
@@ -17,12 +17,12 @@
 
 ------
 
-![cmd-markdown-logo](http://qn.hzphper.com/GIF6.gif)
-![cmd-markdown-logo](http://qn.hzphper.com/GIF.gif)
-![cmd-markdown-logo](http://qn.hzphper.com/GIF2.gif)
-![cmd-markdown-logo](http://qn.hzphper.com/GIF3.gif)
-![cmd-markdown-logo](http://qn.hzphper.com/GIF4.gif)
-![cmd-markdown-logo](http://qn.hzphper.com/GIF5.gif)
+![cmd-markdown-logo](http://qn.hzen.com/GIF6.gif)
+![cmd-markdown-logo](http://qn.hzen.com/GIF.gif)
+![cmd-markdown-logo](http://qn.hzen.com/GIF2.gif)
+![cmd-markdown-logo](http://qn.hzen.com/GIF3.gif)
+![cmd-markdown-logo](http://qn.hzen.com/GIF4.gif)
+![cmd-markdown-logo](http://qn.hzen.com/GIF5.gif)
 
 ------
 
