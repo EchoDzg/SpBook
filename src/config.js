@@ -1,6 +1,6 @@
 // 配置项
 
-const host = 'http://smallprogram.hzphper.com'
+const host = 'http://119.23.172.58:5757'
 const config = {
   host,
   loginUrl: `${host}/weapp/login`,
