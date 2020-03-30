@@ -17,12 +17,12 @@
 
 ------
 
-![cmd-markdown-logo](http://qny.hzen.com/GIF6.gif) 
-![cmd-markdown-logo](http://qny.hzen.com/GIF.gif)
-![cmd-markdown-logo](http://qny.hzen.com/GIF2.gif)
-![cmd-markdown-logo](http://qny.hzen.com/GIF3.gif)
-![cmd-markdown-logo](http://qny.hzen.com/GIF4.gif)
-![cmd-markdown-logo](http://qny.hzen.com/GIF5.gif)
+![cmd-markdown-logo](http://qny.hzen.cn/GIF6.gif) 
+![cmd-markdown-logo](http://qny.hzen.cn/GIF.gif)
+![cmd-markdown-logo](http://qny.hzen.cn/GIF2.gif)
+![cmd-markdown-logo](http://qny.hzen.cn/GIF3.gif)
+![cmd-markdown-logo](http://qny.hzen.cn/GIF4.gif)
+![cmd-markdown-logo](http://qny.hzen.cn/GIF5.gif)
 
 ------
 
